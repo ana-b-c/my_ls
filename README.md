@@ -3,6 +3,7 @@
 # The project:
 You must recode the ls [-alRdrt] [FILE] command.
   -Options can be given in either order.
+  
   -It must be possible to pass a list of files/folders as parameters.
 
 # Authorized Functions
